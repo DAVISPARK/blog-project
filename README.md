@@ -60,7 +60,7 @@ CREATE TABLE reply(
 ```
 
 #### 3. Factory 세팅하기
-<https://blog.naver.com/codingspecialist/221681388208>
+https://blog.naver.com/zinuriu2/221681389988
 
 #### 4. 부트스트랩 커스터마이징 HTML파일
 WebContent/ui_sample/**
