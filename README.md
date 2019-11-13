@@ -2,8 +2,7 @@
 
 - git주소 : <https://github.com/DAVISPARK/blog-project.git>
 
-![blog]
-(https://postfiles.pstatic.net/MjAxOTExMTNfNTYg/MDAxNTczNjIyMDg0NjU5.ZpX48j-4OUGxJRgI9nvdNs4N_7H6h4NqGp6BXj8BRvUg.MbBDLNc-CYh8931JWQYQc1Bp_zRpD_ryU0pSguVrax8g.PNG.zinuriu2/Screenshot_198.png?type=w773)
+![blog](https://postfiles.pstatic.net/MjAxOTExMTNfNTYg/MDAxNTczNjIyMDg0NjU5.ZpX48j-4OUGxJRgI9nvdNs4N_7H6h4NqGp6BXj8BRvUg.MbBDLNc-CYh8931JWQYQc1Bp_zRpD_ryU0pSguVrax8g.PNG.zinuriu2/Screenshot_198.png?type=w773)
 
 #### 1. 사용자 생성 및 권한 주기 및 DB 생성
 - create user 'cos'@'localhost' identified by 'bitc5600';
